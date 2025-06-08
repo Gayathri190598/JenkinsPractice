@@ -14,7 +14,7 @@ public class Addition {
 		System.out.println(mul);
 		div=a/b;
 		System.out.println(div);
-		System.out.println(sum);
+		
 
 	}
 
