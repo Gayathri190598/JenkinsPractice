@@ -12,8 +12,8 @@ public class Addition {
 		System.out.println(sub);
 		mul=a*b;
 		System.out.println(mul);
-		//div=a/b;
-		//System.out.println(div);
+		div=a/b;
+		System.out.println(div);
 
 	}
 
