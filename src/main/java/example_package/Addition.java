@@ -10,8 +10,8 @@ public class Addition {
 		System.out.println(sum);
 		sub=a-b;
 		System.out.println(sub);
-		//mul=a*b;
-		//System.out.println(mul);
+		mul=a*b;
+		System.out.println(mul);
 		//div=a/b;
 		//System.out.println(div);
 
